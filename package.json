@@ -1,6 +1,6 @@
 {
   "name": "web-storage-express-cookies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use cookies in express through the Storage interface of the Web Storage Api",
   "main": "src/index.js",
   "type": "module",
